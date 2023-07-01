@@ -1,0 +1,19 @@
+.list-item {
+  margin-right: 12px;
+  margin-bottom: 12px;
+  background-color: #ffffff;
+  width: 400px;
+}
+.travel-img {
+  width: 400px;
+  height: 250px;
+}
+.name {
+  color: #334155;
+  padding: 16px;
+  font-size: 20px;
+}
+.description {
+  color: #64748b;
+  padding: 16px;
+}

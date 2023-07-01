@@ -1,0 +1,15 @@
+.bg-container {
+  padding: 40px;
+  background-color: #eef4f7;
+  height: 100vh;
+  overflow-y: auto;
+}
+.heading {
+  text-align: center;
+}
+.ul-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
